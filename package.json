@@ -2,11 +2,16 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy": "gh-pages -b master -d .vuepress/dist",
-    "deploy:build": "npm run docs:build && gh-pages -d .vuepress/dist"
+    "deploy": "gh-pages -b master -d .dist",
+    "deploy:build": "npm run docs:build && gh-pages -b master -d .dist"
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "vuepress": "^0.14.4"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "vuepress-theme-ktquez": "^0.2.11",
+    "vuepress-theme-resume": "0.0.3"
   }
 }
