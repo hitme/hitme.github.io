@@ -1,6 +1,12 @@
 {
-  "/(footer)/page": "app/(footer)/page.js",
   "/_not-found/page": "app/_not-found/page.js",
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/(footer)/blog/page": "app/(footer)/blog/page.js",
+  "/(footer)/playground/page": "app/(footer)/playground/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js"
+  "/(no-footer)/crt-tv/page": "app/(no-footer)/crt-tv/page.js",
+  "/(footer)/page": "app/(footer)/page.js",
+  "/(footer)/blog/[slug]/page": "app/(footer)/blog/[slug]/page.js",
+  "/(footer)/projects/page": "app/(footer)/projects/page.js",
+  "/(footer)/edh/page": "app/(footer)/edh/page.js"
 }
