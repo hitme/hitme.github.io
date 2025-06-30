@@ -15,7 +15,7 @@ import styles from './index.module.scss';
 
 export const metadata: Metadata = {
   title: 'Projects',
-  description: "List of some of Alex Craig's Projects and various hobby related things",
+  description: "List of some of Ryan Tang's Projects and various hobby related things",
   openGraph: openGraphMeta('/projects'),
 };
 

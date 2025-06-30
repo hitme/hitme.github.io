@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Alex Craig's blog",
+    "title": "Ryan Tang's blog",
     "home_page_url": "https://im-sticky.github.io/blog",
     "feed_url": "https://im-sticky.github.io/feed.json",
     "description": "A collection of my thoughts and anecdotes",
     "icon": "https://im-sticky.github.io/mstile-144x144.png",
     "author": {
-        "name": "Alex Craig",
+        "name": "Ryan Tang",
         "url": "https://im-sticky.github.io"
     },
     "items": [

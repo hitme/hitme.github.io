@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Alex Craig's blog</title>
+        <title>Ryan Tang's blog</title>
         <link>https://im-sticky.github.io/blog</link>
         <description>A collection of my thoughts and anecdotes</description>
         <lastBuildDate>Sat, 01 Mar 2025 18:17:41 GMT</lastBuildDate>
@@ -9,11 +9,11 @@
         <generator>Feed for node.js</generator>
         <language>en</language>
         <image>
-            <title>Alex Craig's blog</title>
+            <title>Ryan Tang's blog</title>
             <url>https://im-sticky.github.io/mstile-144x144.png</url>
             <link>https://im-sticky.github.io/blog</link>
         </image>
-        <copyright>All rights reserved 2025, Alex Craig</copyright>
+        <copyright>All rights reserved 2025, Ryan Tang</copyright>
         <atom:link href="https://im-sticky.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guile under pressure - Platinum 2]]></title>

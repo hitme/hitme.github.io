@@ -7,21 +7,21 @@ const SITE_URL = 'https://im-sticky.github.io';
 
 const posts = getAllPosts(['title', 'slug', 'date', 'description', 'edited', 'customLink']);
 const feed = new Feed({
-  title: "Alex Craig's blog",
+  title: "Ryan Tang's blog",
   description: 'A collection of my thoughts and anecdotes',
   id: SITE_URL,
   link: `${SITE_URL}/blog`,
   image: `${SITE_URL}/mstile-144x144.png`,
   favicon: `${SITE_URL}/favicon.ico`,
-  copyright: `All rights reserved ${new Date().getFullYear()}, Alex Craig`,
+  copyright: `All rights reserved ${new Date().getFullYear()}, Ryan Tang`,
   feedLinks: {
     json: `${SITE_URL}/feed.json`,
     atom: `${SITE_URL}/atom.xml`,
     rss: `${SITE_URL}/feed.xml`,
   },
   author: {
-    name: 'Alex Craig',
-    email: 'acraig780@gmail.com',
+    name: 'Ryan Tang',
+    email: 'zhilu.tang@gmail.com',
     link: SITE_URL,
   },
   outputPath: '/',
@@ -39,7 +39,7 @@ posts.forEach((meta) =>
     link: `${SITE_URL}${meta.customLink ? meta.customLink : `/blog/${meta.slug}`}`,
     description: meta.description,
     date: new Date(meta.date),
-    author: 'Alex Craig',
+    author: 'Ryan Tang',
   })
 );
 

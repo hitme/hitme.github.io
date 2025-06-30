@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://im-sticky.github.io</id>
-    <title>Alex Craig's blog</title>
+    <title>Ryan Tang's blog</title>
     <updated>2025-03-01T18:17:41.419Z</updated>
     <generator>Feed for node.js</generator>
     <author>
-        <name>Alex Craig</name>
-        <email>acraig780@gmail.com</email>
+        <name>Ryan Tang</name>
+        <email>zhilu.tang@gmail.com</email>
         <uri>https://im-sticky.github.io</uri>
     </author>
     <link rel="alternate" href="https://im-sticky.github.io/blog"/>
@@ -14,7 +14,7 @@
     <subtitle>A collection of my thoughts and anecdotes</subtitle>
     <logo>https://im-sticky.github.io/mstile-144x144.png</logo>
     <icon>https://im-sticky.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2025, Alex Craig</rights>
+    <rights>All rights reserved 2025, Ryan Tang</rights>
     <entry>
         <title type="html"><![CDATA[Guile under pressure - Platinum 2]]></title>
         <id>street-fighter-grind-part-2</id>
