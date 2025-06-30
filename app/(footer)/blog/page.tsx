@@ -15,7 +15,7 @@ import styles from './index.module.scss';
 
 export const metadata: Metadata = {
   title: 'Blog',
-  description: "Alex Craig's Blog.",
+  description: "Ryan Tang's Blog.",
   openGraph: openGraphMeta('/blog'),
 };
 
