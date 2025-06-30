@@ -3,7 +3,7 @@ import {SITE_URL} from './constants';
 
 export function openGraphMeta(url?: string, image?: string): OpenGraph {
   return {
-    siteName: 'Alex Craig Website',
+    siteName: 'Ryan Tang Website',
     type: 'website',
     url: `${SITE_URL}${url ?? ''}`,
     images: {
