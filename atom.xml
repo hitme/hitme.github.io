@@ -1,192 +1,192 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hitme.github.io</id>
-    <title>Ryan Tang's blog</title>
+    <id>https://im-sticky.github.io</id>
+    <title>Alex Craig's blog</title>
     <updated>2025-03-01T18:17:41.419Z</updated>
     <generator>Feed for node.js</generator>
     <author>
-        <name>Ryan Tang</name>
-        <email>zhilu.tang@gmail.com</email>
-        <uri>https://hitme.github.io</uri>
+        <name>Alex Craig</name>
+        <email>acraig780@gmail.com</email>
+        <uri>https://im-sticky.github.io</uri>
     </author>
-    <link rel="alternate" href="https://hitme.github.io/blog"/>
-    <link rel="self" href="https://hitme.github.io/atom.xml"/>
+    <link rel="alternate" href="https://im-sticky.github.io/blog"/>
+    <link rel="self" href="https://im-sticky.github.io/atom.xml"/>
     <subtitle>A collection of my thoughts and anecdotes</subtitle>
-    <logo>https://hitme.github.io/mstile-144x144.png</logo>
-    <icon>https://hitme.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2025, Ryan Tang</rights>
+    <logo>https://im-sticky.github.io/mstile-144x144.png</logo>
+    <icon>https://im-sticky.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Alex Craig</rights>
     <entry>
         <title type="html"><![CDATA[Guile under pressure - Platinum 2]]></title>
         <id>street-fighter-grind-part-2</id>
-        <link href="https://hitme.github.io/blog/street-fighter-grind-part-2"/>
+        <link href="https://im-sticky.github.io/blog/street-fighter-grind-part-2"/>
         <updated>2025-02-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[My first rank up in becoming not ass at Street Fighter 6.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Guile under pressure - Beginnings]]></title>
         <id>street-fighter-grind-part-1</id>
-        <link href="https://hitme.github.io/blog/street-fighter-grind-part-1"/>
+        <link href="https://im-sticky.github.io/blog/street-fighter-grind-part-1"/>
         <updated>2025-02-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Documenting my grind to become not ass at Street Fighter 6.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Game of the Three Thirds Award™ 2024]]></title>
         <id>gottt-2024</id>
-        <link href="https://hitme.github.io/blog/gottt-2024"/>
+        <link href="https://im-sticky.github.io/blog/gottt-2024"/>
         <updated>2024-12-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Awards ceremony for all the games that I have played throughout 2024.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tri-annual game roundup - Winter 2024 Edition]]></title>
         <id>winter-2024-game-ratings</id>
-        <link href="https://hitme.github.io/blog/winter-2024-game-ratings"/>
+        <link href="https://im-sticky.github.io/blog/winter-2024-game-ratings"/>
         <updated>2024-12-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A collection of my thoughts and feelings for the games I have played during the final third of 2024.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tri-annual game roundup - Summer 2024 Edition]]></title>
         <id>summer-2024-game-ratings</id>
-        <link href="https://hitme.github.io/blog/summer-2024-game-ratings"/>
+        <link href="https://im-sticky.github.io/blog/summer-2024-game-ratings"/>
         <updated>2024-09-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A collection of my thoughts and feelings for the games I have played during the second third of 2024.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js on GitHub Pages]]></title>
         <id>nextjs-on-github-pages</id>
-        <link href="https://hitme.github.io/blog/nextjs-on-github-pages"/>
+        <link href="https://im-sticky.github.io/blog/nextjs-on-github-pages"/>
         <updated>2024-06-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A short guide to automating deploying a static Next.js site on GitHub Pages.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tri-annual game roundup - Spring 2024 Edition]]></title>
         <id>spring-2024-game-ratings</id>
-        <link href="https://hitme.github.io/blog/spring-2024-game-ratings"/>
+        <link href="https://im-sticky.github.io/blog/spring-2024-game-ratings"/>
         <updated>2024-05-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A collection of my thoughts and feelings for the games I have played during the first third of 2024.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Immortality - An FMV? In this economy?]]></title>
         <id>immortality-review</id>
-        <link href="https://hitme.github.io/blog/immortality-review"/>
+        <link href="https://im-sticky.github.io/blog/immortality-review"/>
         <updated>2023-12-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A brief spoiler free review of the game Immortality.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Game Devlog - Game Jam Day and second round of updates]]></title>
         <id>game-devlog-part-3</id>
-        <link href="https://hitme.github.io/blog/game-devlog-part-3"/>
+        <link href="https://im-sticky.github.io/blog/game-devlog-part-3"/>
         <updated>2023-11-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[An update of my exploits with game development and Godot.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Game Devlog - First round of updates]]></title>
         <id>game-devlog-part-2</id>
-        <link href="https://hitme.github.io/blog/game-devlog-part-2"/>
+        <link href="https://im-sticky.github.io/blog/game-devlog-part-2"/>
         <updated>2023-11-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[An update of my exploits with game development and Godot.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Game Devlog - Initial game demo]]></title>
         <id>game-devlog-part-1</id>
-        <link href="https://hitme.github.io/blog/game-devlog-part-1"/>
+        <link href="https://im-sticky.github.io/blog/game-devlog-part-1"/>
         <updated>2023-10-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The beginning of my exploits with game development and Godot.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gotta go fast - First goal achieved]]></title>
         <id>celeste-part-3</id>
-        <link href="https://hitme.github.io/blog/celeste-part-3"/>
+        <link href="https://im-sticky.github.io/blog/celeste-part-3"/>
         <updated>2022-12-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hitting my first goal of sub 50 in Celeste speedruns and what's next.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gotta go fast - Anxieties to starting runs]]></title>
         <id>celeste-part-2</id>
-        <link href="https://hitme.github.io/blog/celeste-part-2"/>
+        <link href="https://im-sticky.github.io/blog/celeste-part-2"/>
         <updated>2022-12-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The tough parts of learning the finishing bits of a Celeste speedrun.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gotta go fast - Learning Celeste speedrunning]]></title>
         <id>celeste-part-1</id>
-        <link href="https://hitme.github.io/blog/celeste-part-1"/>
+        <link href="https://im-sticky.github.io/blog/celeste-part-1"/>
         <updated>2022-12-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The beginning of my journey learning how to speedrun Celeste.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tunic - A glimpse to the past]]></title>
         <id>tunic-review</id>
-        <link href="https://hitme.github.io/blog/tunic-review"/>
+        <link href="https://im-sticky.github.io/blog/tunic-review"/>
         <updated>2022-03-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A brief spoiler free review of the game Tunic.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Writing is hard]]></title>
         <id>writing-is-hard</id>
-        <link href="https://hitme.github.io/blog/writing-is-hard"/>
+        <link href="https://im-sticky.github.io/blog/writing-is-hard"/>
         <updated>2021-08-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Some musings about my difficulties with learning to write as a hobby.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[First release of MTG Card Seer]]></title>
         <id>mtg-card-seer</id>
-        <link href="https://hitme.github.io/blog/mtg-card-seer"/>
+        <link href="https://im-sticky.github.io/blog/mtg-card-seer"/>
         <updated>2021-08-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A new JavaScript library I'm developing for MTG card image previewing on the web.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[MTG Arena July 2021 season in review]]></title>
         <id>mtga-july-2021-retrospect</id>
-        <link href="https://hitme.github.io/blog/mtga-july-2021-retrospect"/>
+        <link href="https://im-sticky.github.io/blog/mtga-july-2021-retrospect"/>
         <updated>2021-07-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A brief review of the past Magic the Gathering Arena monthly ladder season exclusively playing a Historic Yorion Doom Foretold homebrew.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Death's Door - The good, the bad and the ugly]]></title>
         <id>deaths-door-review</id>
-        <link href="https://hitme.github.io/blog/deaths-door-review"/>
+        <link href="https://im-sticky.github.io/blog/deaths-door-review"/>
         <updated>2021-07-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A brief spoiler free review of the game Death's Door.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Frustrations with the MTG Arena client]]></title>
         <id>frustrations-of-mtga-client</id>
-        <link href="https://hitme.github.io/blog/frustrations-of-mtga-client"/>
+        <link href="https://im-sticky.github.io/blog/frustrations-of-mtga-client"/>
         <updated>2021-05-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The MTG Arena client is both a godsend and awful at the same time for game play.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[MTG Arena April 2021 season in review]]></title>
         <id>mtga-april-2021-retrospect</id>
-        <link href="https://hitme.github.io/blog/mtga-april-2021-retrospect"/>
+        <link href="https://im-sticky.github.io/blog/mtga-april-2021-retrospect"/>
         <updated>2021-05-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A brief review of the past Magic the Gathering Arena monthly ladder season for historic.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[MTG deck archive: Strixhaven release]]></title>
         <id>mtg-deck-archive-2021-04-14</id>
-        <link href="https://hitme.github.io/blog/mtg-deck-archive-2021-04-14"/>
+        <link href="https://im-sticky.github.io/blog/mtg-deck-archive-2021-04-14"/>
         <updated>2021-04-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A snapshot of the decks that I was playing with in Historic prior to the release of Strixhaven.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Strixhaven & the Historic shakeup]]></title>
         <id>strixhaven-historic-shakeup</id>
-        <link href="https://hitme.github.io/blog/strixhaven-historic-shakeup"/>
+        <link href="https://im-sticky.github.io/blog/strixhaven-historic-shakeup"/>
         <updated>2021-04-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[What I'm looking forward to in Historic with the release of Strixhaven.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[MTG Arena March 2021 season in review]]></title>
         <id>mtga-march-2021-retrospect</id>
-        <link href="https://hitme.github.io/blog/mtga-march-2021-retrospect"/>
+        <link href="https://im-sticky.github.io/blog/mtga-march-2021-retrospect"/>
         <updated>2021-04-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A brief review of the past Magic the Gathering Arena monthly ladder season for both standard and historic.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why I'm starting a blog]]></title>
         <id>why-a-blog</id>
-        <link href="https://hitme.github.io/blog/why-a-blog"/>
+        <link href="https://im-sticky.github.io/blog/why-a-blog"/>
         <updated>2021-03-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A brief discussion on why I have decided to create and maintain a blog in this day and age.]]></summary>
     </entry>

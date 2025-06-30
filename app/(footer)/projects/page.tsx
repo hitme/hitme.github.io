@@ -15,7 +15,7 @@ import styles from './index.module.scss';
 
 export const metadata: Metadata = {
   title: 'Projects',
-  description: "List of some of Ryan Tang's Projects and various hobby related things",
+  description: "List of some of Alex Craig's Projects and various hobby related things",
   openGraph: openGraphMeta('/projects'),
 };
 
@@ -113,7 +113,7 @@ function getProjects() {
     new Project({
       title: 'MTG Card Seer',
       description: 'Web Components for previewing MTG card images and deck lists automatically.',
-      link: 'https://github.com/hitme/mtg-card-seer#readme',
+      link: 'https://github.com/im-sticky/mtg-card-seer#readme',
       external: true,
       image: '/projects/cardseer.jpg',
     }),
@@ -133,7 +133,7 @@ function getProjects() {
     new Project({
       title: 'React Music Visualizer',
       description: 'Flexible React component for displaying waveform audio visualizations.',
-      link: 'https://github.com/hitme/react-music-visualizer#readme',
+      link: 'https://github.com/im-sticky/react-music-visualizer#readme',
       external: true,
       image: '/projects/visualizer.jpg',
     }),
