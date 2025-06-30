@@ -9,21 +9,29 @@ import styles from './about.module.scss';
 
 export const metadata: Metadata = {
   title: 'About',
-  description: 'Personal website of Ryan Tang.',
+  description: 'Personal website of Alex Craig.',
 };
 
 export default function About() {
   return (
     <Section grow className={styles.about}>
       <Container className={styles.about__body}>
-        <TitleShape icon={faTerminal}>Ryan Tang</TitleShape>
+        <TitleShape icon={faTerminal}>Alex Craig</TitleShape>
         <small className={styles['about__sub-text']}>
-          A Java developer living in a full stack world
+          A front end developer living in a full stack world
         </small>
 
         <div className={styles.about__bio}>
           <p>
-            I am a China based Java web developer.
+            I am a Toronto based full stack web developer currently working for{' '}
+            <ExternalLink href="https://www.konrad.com/">Konrad Group</ExternalLink> as a permanent
+            fixture on the <ExternalLink href="https://brainstation.io/">BrainStation</ExternalLink>{' '}
+            technology team.
+          </p>
+          <p>
+            I enjoy creating interactive mixed media projects and dabbling in game development. Some
+            of my hobbies and interests include Magic The Gathering, speedrunning, competitive Smash
+            Bros., and collecting video game paraphernalia.
           </p>
         </div>
 
@@ -37,13 +45,13 @@ export default function About() {
         <ul className={styles['about__social-list']}>
           <DeepLink href="/blog" name="Blog" />
           <DeepLink href="/projects" name="Projects &amp; Hobbies" />
-          <SocialLink href="https://github.com/hitme" name="GitHub" />
-          <SocialLink href="https://www.linkedin.com/in/zhilu-tang-97b1b92b/" name="LinkedIn" />
+          <SocialLink href="https://github.com/im-sticky" name="GitHub" />
+          <SocialLink href="https://www.linkedin.com/in/alex-craig-57427069/" name="LinkedIn" />
         </ul>
 
         <p className={styles['about__email']}>
           Want to get in touch with me directly? Email me at{' '}
-          <ExternalLink href="mailto:zhilu.tang@gmail.com">zhilu.tang@gmail.com</ExternalLink>
+          <ExternalLink href="mailto:dev.alexcraig@gmail.com">dev.alexcraig@gmail.com</ExternalLink>
           .
         </p>
       </Container>

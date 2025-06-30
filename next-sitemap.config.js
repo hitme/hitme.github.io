@@ -1,4 +1,4 @@
-const SITE_URL = 'https://hitme.github.io';
+const SITE_URL = 'https://im-sticky.github.io';
 
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {

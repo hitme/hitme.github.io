@@ -29,10 +29,10 @@ const grapeNuts = Grape_Nuts({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    template: '%s | Ryan Tang',
+    template: '%s | Alex Craig',
     default: 'About',
   },
-  description: 'Personal website of Ryan Tang.',
+  description: 'Personal website of Alex Craig.',
   openGraph: openGraphMeta(),
   twitter: {
     site: '@im_sticky',

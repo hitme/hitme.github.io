@@ -3,25 +3,25 @@ import {join} from 'path';
 import {Feed} from 'feed';
 import {getAllPosts} from './helpers/postUtils.mjs';
 
-const SITE_URL = 'https://hitme.github.io';
+const SITE_URL = 'https://im-sticky.github.io';
 
 const posts = getAllPosts(['title', 'slug', 'date', 'description', 'edited', 'customLink']);
 const feed = new Feed({
-  title: "Ryan Tang's blog",
+  title: "Alex Craig's blog",
   description: 'A collection of my thoughts and anecdotes',
   id: SITE_URL,
   link: `${SITE_URL}/blog`,
   image: `${SITE_URL}/mstile-144x144.png`,
   favicon: `${SITE_URL}/favicon.ico`,
-  copyright: `All rights reserved ${new Date().getFullYear()}, Ryan Tang`,
+  copyright: `All rights reserved ${new Date().getFullYear()}, Alex Craig`,
   feedLinks: {
     json: `${SITE_URL}/feed.json`,
     atom: `${SITE_URL}/atom.xml`,
     rss: `${SITE_URL}/feed.xml`,
   },
   author: {
-    name: 'Ryan Tang',
-    email: 'zhilu.tang@gmail.com',
+    name: 'Alex Craig',
+    email: 'acraig780@gmail.com',
     link: SITE_URL,
   },
   outputPath: '/',
@@ -39,7 +39,7 @@ posts.forEach((meta) =>
     link: `${SITE_URL}${meta.customLink ? meta.customLink : `/blog/${meta.slug}`}`,
     description: meta.description,
     date: new Date(meta.date),
-    author: 'Ryan Tang',
+    author: 'Alex Craig',
   })
 );
 
