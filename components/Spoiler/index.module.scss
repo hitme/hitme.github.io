@@ -1,0 +1,77 @@
+@import '@styles/utilities.scss';
+
+.spoiler {
+  position: relative;
+  display: flow-root;
+
+  &--inline {
+    display: inline;
+    background-color: var(--font-color);
+    border-radius: 0.5rem;
+    transition: background-color $transition-time-normal $transition-ease-out-expo;
+    user-select: none;
+    line-height: 1.1875rem; // To match height of a line of text
+
+    .spoiler__button {
+      top: 0;
+      left: 0;
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+  }
+
+  &:not(&--inline) {
+    &::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      background-color: var(--font-color);
+      border-radius: 0.5rem;
+      z-index: 2;
+      transition: background-color $transition-time-normal $transition-ease-out-expo;
+    }
+
+    &.spoiler--no-anim::before {
+      transition: none;
+    }
+
+    .spoiler__button {
+      top: 50%;
+      left: 50%;
+      transform: translate3d(-50%, -50%, 0);
+      flex-direction: column;
+    }
+  }
+
+  &__button {
+    position: absolute;
+    color: var(--background-color);
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  &__text {
+    @include fontSize(10px);
+  }
+
+  &--spoiled {
+    &::before {
+      background-color: transparent !important;
+      pointer-events: none !important;
+    }
+
+    &.spoiler--inline {
+      background-color: initial;
+      user-select: initial;
+    }
+
+    .spoiler__button {
+      display: none;
+    }
+  }
+}

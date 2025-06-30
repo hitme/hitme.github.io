@@ -1,0 +1,48 @@
+@import '@styles/utilities.scss';
+
+.figure {
+  margin: pxToRems(24px);
+
+  @include landscape-tablet-and-up {
+    margin: pxToRems(40px);
+
+    &--right,
+    &--left {
+      margin: pxToRems(16px) pxToRems(24px);
+      max-width: $container-width / 2;
+    }
+
+    &--right {
+      float: right;
+      clear: right;
+      margin-right: pxToRems(-$container-width / 6);
+    }
+
+    &--left {
+      float: left;
+      clear: left;
+      margin-left: pxToRems(-$container-width / 6);
+    }
+
+    &--large {
+      margin-left: -5rem;
+      margin-right: -5rem;
+
+      .object {
+        width: 100%;
+      }
+    }
+  }
+
+  .object {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .caption {
+    text-align: center;
+    font-style: italic;
+    @include fontSize(13px);
+    margin-top: pxToRems(4px);
+  }
+}

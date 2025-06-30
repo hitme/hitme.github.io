@@ -1,0 +1,22 @@
+@import '@styles/utilities.scss';
+
+.file-cabinet {
+  position: relative;
+
+  > * {
+    position: absolute;
+    top: calc(4.5rem * var(--index));
+    transform-origin: bottom;
+    transition: all $transition-time-slow * 1.75 $transition-ease-out-cubic;
+
+    &:hover {
+      top: calc(4.5rem * var(--index) - 1.5rem);
+      transform: rotate3d(1, 0, 0, -6deg);
+
+      ~ * {
+        top: calc(4.5rem * var(--index) + 5rem);
+        transform: rotate3d(1, 0, 0, 35deg);
+      }
+    }
+  }
+}
