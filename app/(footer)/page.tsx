@@ -45,7 +45,7 @@ export default function About() {
         <ul className={styles['about__social-list']}>
           <DeepLink href="/blog" name="Blog" />
           <DeepLink href="/projects" name="Projects &amp; Hobbies" />
-          <SocialLink href="https://github.com/im-sticky" name="GitHub" />
+          <SocialLink href="https://github.com/hitme" name="GitHub" />
           <SocialLink href="https://www.linkedin.com/in/zhilu-tang-97b1b92b/" name="LinkedIn" />
         </ul>
 

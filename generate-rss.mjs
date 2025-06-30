@@ -3,7 +3,7 @@ import {join} from 'path';
 import {Feed} from 'feed';
 import {getAllPosts} from './helpers/postUtils.mjs';
 
-const SITE_URL = 'https://im-sticky.github.io';
+const SITE_URL = 'https://hitme.github.io';
 
 const posts = getAllPosts(['title', 'slug', 'date', 'description', 'edited', 'customLink']);
 const feed = new Feed({
