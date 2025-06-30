@@ -18,20 +18,12 @@ export default function About() {
       <Container className={styles.about__body}>
         <TitleShape icon={faTerminal}>Ryan Tang</TitleShape>
         <small className={styles['about__sub-text']}>
-          A front end developer living in a full stack world
+          A Java developer living in a full stack world
         </small>
 
         <div className={styles.about__bio}>
           <p>
-            I am a Toronto based full stack web developer currently working for{' '}
-            <ExternalLink href="https://www.konrad.com/">Konrad Group</ExternalLink> as a permanent
-            fixture on the <ExternalLink href="https://brainstation.io/">BrainStation</ExternalLink>{' '}
-            technology team.
-          </p>
-          <p>
-            I enjoy creating interactive mixed media projects and dabbling in game development. Some
-            of my hobbies and interests include Magic The Gathering, speedrunning, competitive Smash
-            Bros., and collecting video game paraphernalia.
+            I am a China based Java web developer.
           </p>
         </div>
 
