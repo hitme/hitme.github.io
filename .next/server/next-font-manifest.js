@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{},\"appUsingSizeAdjust\":false,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/markus/dev/code/workspace/gemini-cli/hitme.github.io/app/layout\":[\"static/media/7603c1cff34813a2-s.p.woff2\",\"static/media/4f05ba3a6752a328-s.p.woff2\",\"static/media/924fe15f33cdec2b-s.p.woff2\",\"static/media/ff6bb22db40a75c6-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

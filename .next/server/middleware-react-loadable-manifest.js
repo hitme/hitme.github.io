@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST="{\"app/(footer)/template.tsx -> ../../components/CardSeer\":{\"id\":\"app/(footer)/template.tsx -> ../../components/CardSeer\",\"files\":[\"static/chunks/_app-pages-browser_components_CardSeer_index_tsx.js\"]}}"
