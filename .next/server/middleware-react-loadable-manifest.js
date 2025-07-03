@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST='{"app/(footer)/template.tsx -> ../../components/CardSeer":{"id":6365,"files":["static/chunks/523.5961cf07cd95920f.js","static/chunks/365.30b5e901d00a96ff.js"]}}';
+self.__REACT_LOADABLE_MANIFEST="{\"app/(footer)/template.tsx -> ../../components/CardSeer\":{\"id\":\"app/(footer)/template.tsx -> ../../components/CardSeer\",\"files\":[\"static/chunks/_app-pages-browser_components_CardSeer_index_tsx.js\"]}}"
